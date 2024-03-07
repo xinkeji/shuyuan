@@ -17,14 +17,14 @@ def merge_libraries(library1, library2):
 
 def main():
     # 更改本地路径
-    # new_test_path = 'ipa/test.json'
-    # new_local_path = 'ipa/apps.json'
-    remote_url = 'https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs/apps.json'
+    new_test_path = 'ipa/test.json'
+    new_local_path = 'ipa/apps.json'
+    # remote_url = 'https://cdn.jsdelivr.net/gh/swaggyP36000/TrollStore-IPAs/apps.json'
     
-    Download remote file
-    download_remote_file(remote_url, new_local_path)
+    # Download remote file
+    # download_remote_file(remote_url, new_local_path)
 
-     Continue with your existing merge logic
+    #  Continue with your existing merge logic
     try:
         with open(new_test_path, 'r', encoding='utf-8') as test_file:
             test_content = json.load(test_file)
