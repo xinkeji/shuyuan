@@ -10,19 +10,19 @@
 ![shuyuan.png](icons/shuyuan.png)
 #### 🚩 效验书源链接
 ```
-http://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/good.json
+http://mirror.ghproxy.com/https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/good.json
 ```
 - 未效验书源链接
 ```
-http://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/book.json
+http://mirror.ghproxy.com/https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/book.json
 ```
 #### 🚩 规则净化
 ```
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/jinghua.json
+https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/jinghua.json
 ```
 #### 🚩 TTS-70种语音包
 ```
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/tts.json
+https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/tts.json
 ```
 - 语音包生成[点我](https://tts.dalang.eu.org/)
 
@@ -31,11 +31,11 @@ https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/tts.json
 **自动更新时间** 2024-03-13 18:30:39 CST+0800
  
  ``` bash
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/xsreader/new/resources.txt
+https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/xsreader/new/resources.txt
  ```
 #### 🚩 爱阅书香书源
  ``` bash
-https://github.com/shidahuilang/shuyuan/raw/shuyuan/aiyueshuxiang.ibs
+https://github.com/xinkeji/shuyuan/raw/shuyuan/aiyueshuxiang.ibs
  ```
 
 #### 🚩 IPTV源
@@ -48,7 +48,7 @@ https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt
 #### 🚩 ESign/AltStore/SideStore/锤子助手 巨魔商店应用
 导入链接
 ```
-https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/ipa.json
+https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/ipa.json
 ```
 
 [![Stargazers over time](https://starchart.cc/shidahuilang/shuyuan.svg)](https://starchart.cc/shidahuilang/shuyuan)

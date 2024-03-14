@@ -1,7 +1,7 @@
 {
     "name": "大灰狼 IPA商店",
     "identifier": "com.dahuilang",
-    "sourceURL": "https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/ipa.json",
+    "sourceURL": "https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/ipa.json",
     "apps": [
         {
             "name": "微信多开1",
@@ -9,7 +9,7 @@
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062262,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit2.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit2.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/TrollStore-IPAs/icons/net.whatsapp.WhatsApp.png"
@@ -20,7 +20,7 @@
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062272,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit2.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit2.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/net.whatsapp.WhatsApp.png"
@@ -31,7 +31,7 @@
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062212,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit3.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit3.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/net.whatsapp.WhatsApp.png"
@@ -42,7 +42,7 @@
             "version": "8.0.44",
             "versionDate": "2023-11-30",
             "size": 68062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit4.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/WeChat_8.0.44_callkit4.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/net.whatsapp.WhatsApp.png"
@@ -53,7 +53,7 @@
             "version": "1.2.3",
             "versionDate": "2023-12-22",
             "size": 68065522,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/Helium_1.2.3.tipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/Helium_1.2.3.tipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/Helium.png"
@@ -64,7 +64,7 @@
             "version": "8.0.43",
             "versionDate": "2023-11-30",
             "size": 68062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/icbc.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/icbc.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/gongshang.png"
@@ -75,7 +75,7 @@
             "version": "8.0.43",
             "versionDate": "2023-11-30",
             "size": 68062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/abc.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/abc.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/nonghang.jpg"
@@ -86,7 +86,7 @@
             "version": "9.3.9",
             "versionDate": "2023-11-30",
             "size": 68062242,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/yunshanfu.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/yunshanfu.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/yunshanfu.jpg"
@@ -97,7 +97,7 @@
             "version": "8.0.43",
             "versionDate": "2023-11-30",
             "size": 68042222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/jd.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/jd.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/jd.jpg"
@@ -108,7 +108,7 @@
             "version": "8.0.43",
             "versionDate": "2023-11-30",
             "size": 63062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/CallAssist_TrollStore15.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/CallAssist_TrollStore15.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/bohao.png"
@@ -119,7 +119,7 @@
             "version": "8.0.43",
             "versionDate": "2023-11-30",
             "size": 62062162,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/huahuoyuedu_1.3.3.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/huahuoyuedu_1.3.3.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/huahuo.png"
@@ -130,7 +130,7 @@
             "version": "6.6.3",
             "versionDate": "2023-11-30",
             "size": 18065222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/aiyueshuxiang.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/aiyueshuxiang.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/aiyueshuxiang.png"
@@ -141,7 +141,7 @@
             "version": "5.8.7",
             "versionDate": "2023-11-30",
             "size": 18065272,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/fanqiexiaoshuo_5.8.7_VIP1.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/fanqiexiaoshuo_5.8.7_VIP1.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/fanqiexiaoshuo.png"
@@ -152,7 +152,7 @@
             "version": "2.56.1",
             "versionDate": "2023-11-30",
             "size": 18062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/xiangseguige_2.56.1.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/xiangseguige_2.56.1.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/xiangseguige.png"
@@ -163,7 +163,7 @@
             "version": "2.56.1",
             "versionDate": "2023-11-30",
             "size": 18062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/yuanyuedu_9.9.9.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/yuanyuedu_9.9.9.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/yuanyuedu.png"
@@ -174,7 +174,7 @@
             "version": "6.6.3",
             "versionDate": "2023-11-30",
             "size": 28065222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/xiaocao-1024.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/xiaocao-1024.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/xiaocao.png"
@@ -185,7 +185,7 @@
             "version": "5.2.2",
             "versionDate": "2023-11-30",
             "size": 28062222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/fanqiechangting_5.2.2_.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/fanqiechangting_5.2.2_.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/tts.png"
@@ -196,7 +196,7 @@
             "version": "1.2.14",
             "versionDate": "2023-11-30",
             "size": 38065222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/kuwoyinyhue10.46_SVIP_carplay.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/kuwoyinyhue10.46_SVIP_carplay.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/kuwo.png"
@@ -207,7 +207,7 @@
             "version": "1.2.14",
             "versionDate": "2023-11-30",
             "size": 38065222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/Fileball_1.2.14.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/Fileball_1.2.14.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/Fileball.png"
@@ -218,7 +218,7 @@
             "version": "7.6.4",
             "versionDate": "2023-11-30",
             "size": 48065222,
-            "downloadURL": "https://github.com/shidahuilang/shuyuan/releases/download/IPA/Infuse_HW_7.6.4.ipa",
+            "downloadURL": "https://github.com/xinkeji/shuyuan/releases/download/IPA/Infuse_HW_7.6.4.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/icons/Fileball.png"

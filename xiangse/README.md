@@ -1,7 +1,7 @@
 # shuyuan
 香色闺阁集成多书源（小说，听说，漫画，电影，电视剧，音乐）已整理
 ```
-https://ghproxy.com/https://github.com/shidahuilang/shuyuan/raw/main/sourceModelList.xbs
+https://ghproxy.com/https://github.com/xinkeji/shuyuan/raw/main/sourceModelList.xbs
 ```
 
 影视书源
