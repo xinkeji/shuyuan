@@ -44,11 +44,4 @@ https://iptv.228088.xyz/cn.m3u
  ```
  ```
 https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt
- ```
-#### 🚩 ESign/AltStore/SideStore/锤子助手 巨魔商店应用
-导入链接
-```
-https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/ipa.json
-```
-
-[![Stargazers over time](https://starchart.cc/shidahuilang/shuyuan.svg)](https://starchart.cc/shidahuilang/shuyuan)
+ 
