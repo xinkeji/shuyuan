@@ -27,7 +27,7 @@
 
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-f552bab6ce72.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-4589f64a2275.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-a7246d2d6733.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f2ef05cef2f1.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-daa1fe317131.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-1ab6fcc64845.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-46de871e876c.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-c9754fef2a31.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-dba748981a29.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-4cbeaa0795ef.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-fa3434a1ba0a.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-87f353b17355.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-545513c45073.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-f1af66156f94.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-2e900f0ac288.css" />
@@ -37,7 +37,7 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_chat_static_thread_suggestions","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_smell_icebreaker_ux","copilot_implicit_context","copilot_stop_response","copilot_updated_function_buttons","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch","kb_source_repos"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-92e6bd75ff50.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-8c75c7ee40ca.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-810e4b1b9abd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-4ac41d0a76fd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-a448e4-f17a27f30529.js"></script>
@@ -68,14 +68,14 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-3dc342dedcb0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-2363a1c8ed46.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-5276a3faf037.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-dea72fb5100b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-a9352ca9f95d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-2ea61fcc9a71.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-0409f6303340.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_repositories_get-repo-element_ts-e21ae6671295.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-67595c3a6d0c.js"></script>
   
   <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-dc88c1a68b28.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-541a38-c63b7a3484dd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-541a38-2733fe157c2c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-8f8c5e2a2cbf.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FeatureFlags_FeatureFlags_js-node_modules_github_ca-9009bd-47065f21e9ac.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-97ed51d4f278.js"></script>
@@ -95,9 +95,9 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-44ed51a2083d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-cdec9cf45205.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-4045d4f4a6fb.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-e5f899e1c55d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-59a8e3-6e5455ef73f2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_ho-68a691-69b343881d3d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-1d7ba6f1d9fe.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-59a8e3-36170fdb305b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_ho-68a691-042026e157fa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-e50ab6-06193ffb3fd6.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-6956503e2fd4.js"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.98a0f4bdacd6223a0b70.module.css" />
@@ -115,7 +115,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="9F58:EFF6C:66961CD:8DA24C1:665AF342" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3d2b96639511c1726683e2bfdaf620f66744887664ea8c12d62a5b58351239f9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5RjU4OkVGRjZDOjY2OTYxQ0Q6OERBMjRDMTo2NjVBRjM0MiIsInZpc2l0b3JfaWQiOiIzNjU5MTEwNzM0MDA3ODI1MjE4IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="29a0788d3f9b3f60a729ba9e4d9ec3d2ebd220a34a77c6ba022026f59c43692d" data-pjax-transient="true"/>
+  <meta name="request-id" content="A590:200D45:3124DD6:4524DE7:665EE7BA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3ca330106d6d119b535edb0d8c25aca934ab13bfa93c2cd8e0516b5782716b13" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBNTkwOjIwMEQ0NTozMTI0REQ2OjQ1MjRERTc6NjY1RUU3QkEiLCJ2aXNpdG9yX2lkIjoiNjQ0MTY5OTMwOTI2MDgyNjU1NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="7c480fcf1426e7d2c2948fd25434704a9aac1a9b233a619d8f2ccc938bbc7c2a" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:768461960" data-turbo-transient>
@@ -154,8 +154,8 @@
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs" />
 
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/00a10f34d2ab8d406beea7ac19d1d67546c8184c8cedb26304f51d8792e43bf1/xinkeji/shuyuan" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="shuyuan/xiangse/xiangse/乐文看书(海棠).xbs at shuyuan · xinkeji/shuyuan" /><meta name="twitter:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - xinkeji/shuyuan" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/00a10f34d2ab8d406beea7ac19d1d67546c8184c8cedb26304f51d8792e43bf1/xinkeji/shuyuan" /><meta property="og:image:alt" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - xinkeji/shuyuan" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="shuyuan/xiangse/xiangse/乐文看书(海棠).xbs at shuyuan · xinkeji/shuyuan" /><meta property="og:url" content="https://github.com/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs" /><meta property="og:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - xinkeji/shuyuan" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4eb97d95e1a03147a769d17e0ca40ee57d8e05743802a5994b7be9265818571c/xinkeji/shuyuan" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="shuyuan/xiangse/xiangse/乐文看书(海棠).xbs at shuyuan · xinkeji/shuyuan" /><meta name="twitter:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - xinkeji/shuyuan" />
+  <meta property="og:image" content="https://opengraph.githubassets.com/4eb97d95e1a03147a769d17e0ca40ee57d8e05743802a5994b7be9265818571c/xinkeji/shuyuan" /><meta property="og:image:alt" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - xinkeji/shuyuan" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="shuyuan/xiangse/xiangse/乐文看书(海棠).xbs at shuyuan · xinkeji/shuyuan" /><meta property="og:url" content="https://github.com/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs" /><meta property="og:description" content="香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 - xinkeji/shuyuan" />
   
 
 
@@ -168,10 +168,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="7a6cdae75006d44d9b61093e5e65ae45c0d153bcc87c6a69974cbdfd6fc3b58b" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="9d19cbb5adef193c28a261a8507191907e7bf3fe5e4d11d4c4c177848eaf2f25" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="38c639a245e1dd04786881fae1060fbd72d3ed419b2f0d38d6082dc9d67876c3" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="f37eaf27fe12b105c6661d303537787959eeb4bf52c6937d9165fd6b569faf30" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="d68f2ed30f344122db9f9e2729787450e1e8653e98bd61026fb4d75bf89de664" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="a231bdac81d3a969a38b5854f9189b5fd6b6771f9788e9c2a20fadd334ed3906" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="376e38e62a63105d383081f4840b6d45de70eaf4db5b4d3ad90b689ca54d3c99" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -296,7 +296,7 @@
       <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide">
           <div class="px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
             <ul class="list-style-none f5" >
-                <li>
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_cta:Actions;&quot;}" href="https://github.com/features/actions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
     <path d="M1 3a2 2 0 0 1 2-2h6.5a2 2 0 0 1 2 2v6.5a2 2 0 0 1-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 0 1 2-2H21a2 2 0 0 1 2 2V21a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-2.5H8.437A2.939 2.939 0 0 1 5.5 15.562V11.5H3a2 2 0 0 1-2-2Zm2-.5a.5.5 0 0 0-.5.5v6.5a.5.5 0 0 0 .5.5h6.5a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5ZM14.5 14a.5.5 0 0 0-.5.5V21a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5v-6.5a.5.5 0 0 0-.5-.5Z"></path>
@@ -308,8 +308,8 @@
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_cta:Packages;&quot;}" href="https://github.com/features/packages">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
     <path d="M12.876.64V.639l8.25 4.763c.541.313.875.89.875 1.515v9.525a1.75 1.75 0 0 1-.875 1.516l-8.25 4.762a1.748 1.748 0 0 1-1.75 0l-8.25-4.763a1.75 1.75 0 0 1-.875-1.515V6.917c0-.625.334-1.202.875-1.515L11.126.64a1.748 1.748 0 0 1 1.75 0Zm-1 1.298L4.251 6.34l7.75 4.474 7.75-4.474-7.625-4.402a.248.248 0 0 0-.25 0Zm.875 19.123 7.625-4.402a.25.25 0 0 0 .125-.216V7.639l-7.75 4.474ZM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947Z"></path>
@@ -321,8 +321,8 @@
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_cta:Security;&quot;}" href="https://github.com/features/security">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
     <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
@@ -334,8 +334,8 @@
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_cta:Codespaces;&quot;}" href="https://github.com/features/codespaces">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
     <path d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 18.75 13H5.25a1.75 1.75 0 0 1-1.75-1.75Zm-2 12c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75ZM5.25 3.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Zm-2 12a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25Z"></path><path d="M10 17.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -347,21 +347,21 @@
 
     
 </a></li>
-
-                <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_cta:Copilot;&quot;}" href="https://github.com/features/copilot">
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Copilot&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Copilot;&quot;}" href="https://github.com/features/copilot">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
 </svg>
       <div>
-        <div class="color-fg-default h4">Copilot</div>
+        <div class="color-fg-default h4">GitHub Copilot</div>
         Write better code with AI
       </div>
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_cta:Code review;&quot;}" href="https://github.com/features/code-review">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
     <path d="M10.3 6.74a.75.75 0 0 1-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 0 1-1.75 1.75h-9.69l-3.573 3.573A1.458 1.458 0 0 1 5 21.043V18.5H3.25a1.75 1.75 0 0 1-1.75-1.75ZM3.25 4a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 .75.75v3.19l3.72-3.72a.749.749 0 0 1 .53-.22h10a.25.25 0 0 0 .25-.25V4.25a.25.25 0 0 0-.25-.25Z"></path>
@@ -373,8 +373,8 @@
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_cta:Issues;&quot;}" href="https://github.com/features/issues">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
     <path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Zm9.5 2a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14Z"></path>
@@ -386,8 +386,8 @@
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_cta:Discussions;&quot;}" href="https://github.com/features/discussions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
     <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
@@ -399,20 +399,20 @@
 
     
 </a></li>
-
+<!-- END app/components/site/header_dropdown_item_component.rb -->
             </ul>
           </div>
           <div class="px-lg-4">
               <span class="d-block h4 color-fg-default my-1" id="product-explore-heading">Explore</span>
             <ul class="list-style-none f5" aria-labelledby="product-explore-heading">
-                <li>
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_cta:All features;&quot;}" href="https://github.com/features">
       All features
 
     
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
       Documentation
 
@@ -420,8 +420,8 @@
     <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
 </svg>
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com">
       GitHub Skills
 
@@ -429,8 +429,8 @@
     <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
 </svg>
 </a></li>
-
-                <li>
+<!-- END app/components/site/header_dropdown_item_component.rb -->
+                <!-- BEGIN app/components/site/header_dropdown_item_component.rb --><li>
   <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_cta:Blog;&quot;}" href="https://github.blog">
       Blog
 
@@ -438,7 +438,7 @@
     <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
 </svg>
 </a></li>
-
+<!-- END app/components/site/header_dropdown_item_component.rb -->
             </ul>
           </div>
       </div>
@@ -669,12 +669,12 @@
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Enterprise&quot;,&quot;action&quot;:&quot;click to go to Copilot Enterprise&quot;,&quot;label&quot;:&quot;ref_cta:Copilot Enterprise;&quot;}" href="/features/copilot#enterprise">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Enterprise&quot;,&quot;action&quot;:&quot;click to go to GitHub Copilot&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Copilot;&quot;}" href="/features/copilot#enterprise">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
 </svg>
       <div>
-        <div class="color-fg-default h4">Copilot Enterprise</div>
+        <div class="color-fg-default h4">GitHub Copilot</div>
         Enterprise-grade AI features
       </div>
 
@@ -711,7 +711,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:xinkeji/shuyuan" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="I917H_FAIKs8m7f5LoLuSle9I_WZllKEuEX-qesUb-Q_FY2U23SbFZtHp3kXJrE47W-3ubuUVH4LoeRC3RZgKw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="xinkeji/shuyuan" data-current-org="" data-current-owner="xinkeji" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=FUQ1NA5r1bXbOHiLslomCw31jveJE5Hf0VsK0IhCdLvjfsWn953zOEtf8srpuiR%2Bs5jIt8bXmDgSeSzraM7fxLRJB9acgjFeUQ1EHd4ZsJA1Rx7RtGWST97yTPZ0%2F9N6CNJ06DRVjZFzO6vSgbMrDw737B1SHwsW1fr4G1G7Q%2F5FQrDU8p68S6BnB8YyByMOxeX5I0d3e5iU8TaotOfPK%2F1%2BxGRhWH28deUs0HVXAlq5gwhcm5o%2BsudWQ%2Bp3eeiJt5OanDRm4Ke2cESwRH50y7YPaDuFs0ywHSjU7myMt2YgpctqQG0bwJgOFGZnSN81D29hYRiwNwKQrO4u0JEegICC5kOQ0qKw0nsI76grU2sXSzVA3GJ6%2Fo5Dag%2Bke82a3r2L3Ebfim9uL%2FD3S8I07qmNNt1x%2FFjNv5mO%2Ffoi9O%2Bfi0gLhSfZv6e1kwouA590NEvLLIGDjLkx29CHiO4weMebXSDf7R2Xk%2FY6BMROXXYI35lZ9VoEjIb%2FoMneIOX30kW4L%2BgQnJYOmqFSnj1zUiDwQsVNSEfV4A4nRkyqiOTVOIehQ962Pba%2BNouRmt0lInTxyqE7ECbWuq6TMAp21%2F1yqXdS%2FRXiC8MNXRDagsl78BgknvKHxzudSxDpjbT3%2FsYMSpGHF3SYMjdFmkLGq%2FBku%2FJvOxn2n0HxUX5Jp3OD%2BA%3D%3D--qkS0xT%2Bt7qoyCFJE--cZgYwrKSqpwgH31ol%2BOL0g%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:xinkeji/shuyuan" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="5lgPpSjBEie-_sIdrgCi6Xu-zlknGeFLuyFpkokFt46UXitGo2BHV1Pdxtnn0VP7xuO95mKivaobfRjdGu-wsA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="xinkeji/shuyuan" data-current-org="" data-current-owner="xinkeji" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=JpvngPtBbEcb9vNqhrRJrfGb4nh4kifgggxGiYi6HKf83hSu0xUf1pKEPBNATSjc4E8%2B8r8lJg024euvKdibD5Uttk%2FOfaEand01WelzQQJci8cOKktATInob073QsuxgvODqaDA5ex377s%2ByULIPsZXi99E%2BfxFbyTiQE7ebxurBTd9q40w7cnVsIhYdBGdM9OaoOJAiCC6ZbKUAbQfXpr3zxIk2f0GFOTv5byPp%2FbFLIqIe21h9Egt%2BdqRQ5R%2F3SYeXN0CUDxnAvc%2Brx%2FzMBRgJZxyN%2B4YEFGHa44qDhwCf22gTaBEOUVWHpJhGSDCxtmIZrQ5ST8khdGOheU2DlTIKL40rWp7BmN4qYfW0aWjj6vOsTHYyTV6Ip7rs8BcXZ7ro9wiCyFZSNNK0GZBc3hKCzZAyKZvPlZLnHpQtXZu3ZTFFAHsWMShfUOmtaVDFdbvGhYTHvGgV%2FTV6SbBPavywd7pIFe1r8zcUTviH9JWyXhcuUDQslzJCa9nLkzZjHvqkzNOsnU5EFeEahu0ixZ9hlZU7afYh9GTU6PAyUImhJPf6gQVFHFpqGANb1zEcG6kBCZXQuAbhVMQUB32x3F9WsH%2FcoI6NfLNzwqCtG7p1PUbu7Mmn5N5fhQ%2B63PhqdrvOHkmxdOZ5izzfcux5DaSP3hscjcRGBu3rxdOecbk%2Fw%3D%3D--9%2FyGswxqDuKcG0%2FZ--5996P4iqAm4fijQhFUswUw%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -773,7 +773,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-ecba2355-bd4a-40cd-8de8-0c2f4247cd02" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-0a53b290-f89f-4e0a-a5cf-f9a0331f48ab" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1004,7 +1004,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-ecba2355-bd4a-40cd-8de8-0c2f4247cd02" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-0a53b290-f89f-4e0a-a5cf-f9a0331f48ab" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1047,7 +1047,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="JsVZyv/DAKQS4Zri2tyzD5P+982Nr04YI7NDhtZKu02EMtblA0lTjxDRX382aOk9gQaSEjnToCzI6EsA5gZudg==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="/yTeVaoyRn6nEuLr4NAi5fcViWpwHcK9sETJXhDMBBvbRgMSxkUFbPegRlJtpvMfQQ846UZ5YnTRHdc6UcQDfw==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1085,7 +1085,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="9nHKdcYu//MnqaR4zuFigKtET9u9Y0UR5lD+dUEF1nJxmfxbBqtZMgvEoqveDFYgy6FdUAHiSDj0fokb0QUHyg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="thmQ/lrGp2YkAJzKOiLVxL4NXnHCiJ6bXziqahjDl6Jc8POjnG3kfq6uWGRwIEfzExXKwGqmzqioWw4tbaclmw==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1103,7 +1103,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="QfBu2d7hikJGtWxozjXJCIw4eYStSW72w/4Ht/JQjB45/3+DG3kKdw7r8upvNElbTT9IDRZF/i9pbcE0hBZupA==" />
+              <input type="hidden" data-csrf="true" value="pbXHn3WjMgaLa06ztOp3tZaAG4flSxdiNFieuMkfaJLGNYUTnK8wY7yoUWGXVO3nYH4ANm6ij80EoZfUNV4uSQ==" />
             </auto-check>
           </div>
 
@@ -1140,7 +1140,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="MmHSI/R4Cqtb2HpGa9j62AhBJDJ3FVI1z2MyQ4F/GZ8FSfwJFCGtANn1vFUrQSSdy7bngIz5/cRpXfK5R2z8cQ==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="vxn5kmBZdx8DC2B+qfKXGKSlMWlRdjbXPbash39tpkps1Om5ViO9WwzfKJhFoc17y4upw7hkhDKz/PYbqPjBhA==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -1174,10 +1174,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-b70482e5-3a11-42bd-a5e8-97f93c7f4bc7" aria-labelledby="tooltip-95edd94a-c30f-4af0-bd21-f54581e07b87" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-7bba99c0-28c2-46b2-bc36-01f8cdbbb03b" aria-labelledby="tooltip-495dd842-9f46-475a-87df-2571817bb940" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-95edd94a-c30f-4af0-bd21-f54581e07b87" for="icon-button-b70482e5-3a11-42bd-a5e8-97f93c7f4bc7" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-495dd842-9f46-475a-87df-2571817bb940" for="icon-button-7bba99c0-28c2-46b2-bc36-01f8cdbbb03b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1281,7 +1281,7 @@
             <a href="/login?return_to=%2Fxinkeji%2Fshuyuan" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4686d59050b6c7d5fc4c8e6f993f1ecb5398561dac77db94c66d7792c317105a" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-de1252e8-607d-496f-a68e-bd2df3cc28ce" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-7fed43d4-04ee-4519-a1b0-88cff7216fab" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
@@ -1396,22 +1396,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-button" popovertarget="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-overlay" aria-controls="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-list" aria-haspopup="true" aria-labelledby="tooltip-9ee029eb-858c-4086-8d5d-17d103995450" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-button" popovertarget="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-overlay" aria-controls="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-list" aria-haspopup="true" aria-labelledby="tooltip-e58620b8-ebfd-4fa1-b9b3-10fd6777e604" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-9ee029eb-858c-4086-8d5d-17d103995450" for="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-e58620b8-ebfd-4fa1-b9b3-10fd6777e604" for="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-overlay" anchor="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-overlay" anchor="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-button" id="action-menu-15ec3c34-ebaa-4ae5-b290-eab19834be73-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-button" id="action-menu-d25cd294-5780-4edc-b0e2-8ab6e9fd8f7d-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-27d2309d-9206-479b-9f71-94d26d27fd94" href="/xinkeji/shuyuan" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-be3ad9b3-283f-4431-91b5-e04e99133a24" href="/xinkeji/shuyuan" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1426,7 +1426,7 @@
         <li hidden="hidden" data-menu-item="i1pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-b86c0d34-4d6a-47ae-b414-190b46fcd237" href="/xinkeji/shuyuan/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-a69b6f20-c236-43de-86e2-1229175a2d5d" href="/xinkeji/shuyuan/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1441,7 +1441,7 @@
         <li hidden="hidden" data-menu-item="i2actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-f9cf85fe-7b07-49d2-a5f2-6d399e72f0c9" href="/xinkeji/shuyuan/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-83a83b99-83ef-47ed-90f3-57a353f69ab4" href="/xinkeji/shuyuan/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1456,7 +1456,7 @@
         <li hidden="hidden" data-menu-item="i3projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-6fa8ec8d-b57f-4d08-bc03-5def005f3dac" href="/xinkeji/shuyuan/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9e029c9d-52b5-4e2f-821b-7c3b5531cba4" href="/xinkeji/shuyuan/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1471,7 +1471,7 @@
         <li hidden="hidden" data-menu-item="i4security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-19504466-fa11-47a2-8354-b94a349a9cd7" href="/xinkeji/shuyuan/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c0bb3d33-6c4a-48d6-80b7-aa8d70b0875e" href="/xinkeji/shuyuan/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1486,7 +1486,7 @@
         <li hidden="hidden" data-menu-item="i5insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c6df9a34-cbc5-4b48-a859-314d8be927e9" href="/xinkeji/shuyuan/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-01f82fb6-4b18-4ffb-b820-a8614f26b9d0" href="/xinkeji/shuyuan/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1528,6 +1528,7 @@
 
 
 
+
 <react-app
   app-name="react-code-view"
   initial-path="/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs"
@@ -1537,7 +1538,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"xiangse/xiangse":{"items":[{"name":"小说源","path":"xiangse/xiangse/小说源","contentType":"directory"},{"name":"36书房网.xbs","path":"xiangse/xiangse/36书房网.xbs","contentType":"file"},{"name":"xiangse.xbs","path":"xiangse/xiangse/xiangse.xbs","contentType":"file"},{"name":"xs合集.xbs","path":"xiangse/xiangse/xs合集.xbs","contentType":"file"},{"name":"一起看大文学.xbs","path":"xiangse/xiangse/一起看大文学.xbs","contentType":"file"},{"name":"东山岁晚.xbs","path":"xiangse/xiangse/东山岁晚.xbs","contentType":"file"},{"name":"丝路(不能搜索）.xbs","path":"xiangse/xiangse/丝路(不能搜索）.xbs","contentType":"file"},{"name":"乐文小说01.xbs","path":"xiangse/xiangse/乐文小说01.xbs","contentType":"file"},{"name":"乐文看书(海棠).xbs","path":"xiangse/xiangse/乐文看书(海棠).xbs","contentType":"file"},{"name":"书源合集 iOS16系统不可用.xbs","path":"xiangse/xiangse/书源合集 iOS16系统不可用.xbs","contentType":"file"},{"name":"全本小说网qb5.xbs","path":"xiangse/xiangse/全本小说网qb5.xbs","contentType":"file"},{"name":"千千小说网.xbs","path":"xiangse/xiangse/千千小说网.xbs","contentType":"file"},{"name":"御书网.xbs","path":"xiangse/xiangse/御书网.xbs","contentType":"file"},{"name":"新笔趣阁.xbs","path":"xiangse/xiangse/新笔趣阁.xbs","contentType":"file"},{"name":"无限小说网.xbs","path":"xiangse/xiangse/无限小说网.xbs","contentType":"file"},{"name":"明月中文.xbs","path":"xiangse/xiangse/明月中文.xbs","contentType":"file"},{"name":"晨曦小说网.xbs","path":"xiangse/xiangse/晨曦小说网.xbs","contentType":"file"},{"name":"格格党52.xbs","path":"xiangse/xiangse/格格党52.xbs","contentType":"file"},{"name":"笔趣阁1biqug.xbs","path":"xiangse/xiangse/笔趣阁1biqug.xbs","contentType":"file"},{"name":"笔趣阁9x(2).xbs","path":"xiangse/xiangse/笔趣阁9x(2).xbs","contentType":"file"},{"name":"笔趣阁bqg70.xbs","path":"xiangse/xiangse/笔趣阁bqg70.xbs","contentType":"file"},{"name":"笔趣阁hehuavr.xbs","path":"xiangse/xiangse/笔趣阁hehuavr.xbs","contentType":"file"},{"name":"第九中文网(1).xbs","path":"xiangse/xiangse/第九中文网(1).xbs","contentType":"file"},{"name":"米奇网电子书.xbs","path":"xiangse/xiangse/米奇网电子书.xbs","contentType":"file"},{"name":"腐宅屋.xbs","path":"xiangse/xiangse/腐宅屋.xbs","contentType":"file"},{"name":"趣app.xbs","path":"xiangse/xiangse/趣app.xbs","contentType":"file"},{"name":"选书网.xbs","path":"xiangse/xiangse/选书网.xbs","contentType":"file"},{"name":"零点看书.xbs","path":"xiangse/xiangse/零点看书.xbs","contentType":"file"},{"name":"顶点小说.xbs","path":"xiangse/xiangse/顶点小说.xbs","contentType":"file"},{"name":"风筝小说（轻小说）.xbs","path":"xiangse/xiangse/风筝小说（轻小说）.xbs","contentType":"file"},{"name":"鬼书集阅读.xbs","path":"xiangse/xiangse/鬼书集阅读.xbs","contentType":"file"}],"totalCount":31},"xiangse":{"items":[{"name":"18+源","path":"xiangse/18+源","contentType":"directory"},{"name":"xiangse","path":"xiangse/xiangse","contentType":"directory"},{"name":"书源","path":"xiangse/书源","contentType":"directory"},{"name":"漫画源","path":"xiangse/漫画源","contentType":"directory"},{"name":"3.0.json","path":"xiangse/3.0.json","contentType":"file"},{"name":"3.01.json","path":"xiangse/3.01.json","contentType":"file"},{"name":"README.md","path":"xiangse/README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"xiangse/aiyueshuxiang.ibs","contentType":"file"},{"name":"reader书源-20220411_183419.json","path":"xiangse/reader书源-20220411_183419.json","contentType":"file"},{"name":"sourceModelList.xbs","path":"xiangse/sourceModelList.xbs","contentType":"file"},{"name":"xiangse.md","path":"xiangse/xiangse.md","contentType":"file"},{"name":"汇总源.xbs","path":"xiangse/汇总源.xbs","contentType":"file"},{"name":"🌐想看资源网📺.xbs","path":"xiangse/🌐想看资源网📺.xbs","contentType":"file"}],"totalCount":13},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"icons","path":"icons","contentType":"directory"},{"name":"ipa","path":"ipa","contentType":"directory"},{"name":"json","path":"json","contentType":"directory"},{"name":"py","path":"py","contentType":"directory"},{"name":"shuyuan_data","path":"shuyuan_data","contentType":"directory"},{"name":"shuyuans_data","path":"shuyuans_data","contentType":"directory"},{"name":"xiangse","path":"xiangse","contentType":"directory"},{"name":"xsreader","path":"xsreader","contentType":"directory"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"aiyueshuxiang.ibs","contentType":"file"},{"name":"book.json","path":"book.json","contentType":"file"},{"name":"error.json","path":"error.json","contentType":"file"},{"name":"good.json","path":"good.json","contentType":"file"},{"name":"ipa.json","path":"ipa.json","contentType":"file"},{"name":"iptv.txt","path":"iptv.txt","contentType":"file"},{"name":"jinghua.json","path":"jinghua.json","contentType":"file"},{"name":"shuyuan_data.json","path":"shuyuan_data.json","contentType":"file"},{"name":"shuyuans_data.json","path":"shuyuans_data.json","contentType":"file"},{"name":"tts.json","path":"tts.json","contentType":"file"}],"totalCount":21}},"fileTreeProcessingTime":5.152479,"foldersToFetch":[],"repo":{"id":768461960,"defaultBranch":"shuyuan","name":"shuyuan","ownerLogin":"xinkeji","currentUserCanPush":false,"isFork":true,"isEmpty":false,"createdAt":"2024-03-07T06:00:05.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/33138729?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"shuyuan","listCacheKey":"v0:1710420372.0","canEdit":false,"refType":"branch","currentOid":"90dd567587c75d0c2e1240f83d8910692c7fa6ca"},"path":"xiangse/xiangse/乐文看书(海棠).xbs","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/xinkeji/shuyuan/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"乐文看书(海棠).xbs","displayUrl":"https://github.com/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs?raw=true","headerInfo":{"blobSize":"4.15 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"62f3311","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fxinkeji%2Fshuyuan%2Fblob%2Fshuyuan%2Fxiangse%2Fxiangse%2F%25E4%25B9%2590%25E6%2596%2587%25E7%259C%258B%25E4%25B9%25A6%28%25E6%25B5%25B7%25E6%25A3%25A0%29.xbs","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/xinkeji/shuyuan/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/xinkeji/shuyuan/raw/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/xinkeji/shuyuan/branches":{"post":"h7mnggHQa5jQEO9KHSUdl_AuCfWtUmeEGiY-Z4fTif8UaQUZP0visl5IiHWSC3YK6I0Y-jXXpwwpxLweoeA6EQ"},"/repos/preferences":{"post":"56jgN68R75Bp28EZoJgVuCMMXUWGd0w8Q6dYFz7vFhHX6IlgLdr4hDvwIE-S4Tp8so5AWyK6OsPuhVLok6oxPQ"}}},"title":"shuyuan/xiangse/xiangse/乐文看书(海棠).xbs at shuyuan · xinkeji/shuyuan","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-1583894afd38.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-3a63a487027b.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"xiangse/xiangse":{"items":[{"name":"小说源","path":"xiangse/xiangse/小说源","contentType":"directory"},{"name":"36书房网.xbs","path":"xiangse/xiangse/36书房网.xbs","contentType":"file"},{"name":"xiangse.xbs","path":"xiangse/xiangse/xiangse.xbs","contentType":"file"},{"name":"xs合集.xbs","path":"xiangse/xiangse/xs合集.xbs","contentType":"file"},{"name":"一起看大文学.xbs","path":"xiangse/xiangse/一起看大文学.xbs","contentType":"file"},{"name":"东山岁晚.xbs","path":"xiangse/xiangse/东山岁晚.xbs","contentType":"file"},{"name":"丝路(不能搜索）.xbs","path":"xiangse/xiangse/丝路(不能搜索）.xbs","contentType":"file"},{"name":"乐文小说01.xbs","path":"xiangse/xiangse/乐文小说01.xbs","contentType":"file"},{"name":"乐文看书(海棠).xbs","path":"xiangse/xiangse/乐文看书(海棠).xbs","contentType":"file"},{"name":"书源合集 iOS16系统不可用.xbs","path":"xiangse/xiangse/书源合集 iOS16系统不可用.xbs","contentType":"file"},{"name":"全本小说网qb5.xbs","path":"xiangse/xiangse/全本小说网qb5.xbs","contentType":"file"},{"name":"千千小说网.xbs","path":"xiangse/xiangse/千千小说网.xbs","contentType":"file"},{"name":"御书网.xbs","path":"xiangse/xiangse/御书网.xbs","contentType":"file"},{"name":"新笔趣阁.xbs","path":"xiangse/xiangse/新笔趣阁.xbs","contentType":"file"},{"name":"无限小说网.xbs","path":"xiangse/xiangse/无限小说网.xbs","contentType":"file"},{"name":"明月中文.xbs","path":"xiangse/xiangse/明月中文.xbs","contentType":"file"},{"name":"晨曦小说网.xbs","path":"xiangse/xiangse/晨曦小说网.xbs","contentType":"file"},{"name":"格格党52.xbs","path":"xiangse/xiangse/格格党52.xbs","contentType":"file"},{"name":"笔趣阁1biqug.xbs","path":"xiangse/xiangse/笔趣阁1biqug.xbs","contentType":"file"},{"name":"笔趣阁9x(2).xbs","path":"xiangse/xiangse/笔趣阁9x(2).xbs","contentType":"file"},{"name":"笔趣阁bqg70.xbs","path":"xiangse/xiangse/笔趣阁bqg70.xbs","contentType":"file"},{"name":"笔趣阁hehuavr.xbs","path":"xiangse/xiangse/笔趣阁hehuavr.xbs","contentType":"file"},{"name":"第九中文网(1).xbs","path":"xiangse/xiangse/第九中文网(1).xbs","contentType":"file"},{"name":"米奇网电子书.xbs","path":"xiangse/xiangse/米奇网电子书.xbs","contentType":"file"},{"name":"腐宅屋.xbs","path":"xiangse/xiangse/腐宅屋.xbs","contentType":"file"},{"name":"趣app.xbs","path":"xiangse/xiangse/趣app.xbs","contentType":"file"},{"name":"选书网.xbs","path":"xiangse/xiangse/选书网.xbs","contentType":"file"},{"name":"零点看书.xbs","path":"xiangse/xiangse/零点看书.xbs","contentType":"file"},{"name":"顶点小说.xbs","path":"xiangse/xiangse/顶点小说.xbs","contentType":"file"},{"name":"风筝小说（轻小说）.xbs","path":"xiangse/xiangse/风筝小说（轻小说）.xbs","contentType":"file"},{"name":"鬼书集阅读.xbs","path":"xiangse/xiangse/鬼书集阅读.xbs","contentType":"file"}],"totalCount":31},"xiangse":{"items":[{"name":"18+源","path":"xiangse/18+源","contentType":"directory"},{"name":"xiangse","path":"xiangse/xiangse","contentType":"directory"},{"name":"书源","path":"xiangse/书源","contentType":"directory"},{"name":"漫画源","path":"xiangse/漫画源","contentType":"directory"},{"name":"3.0.json","path":"xiangse/3.0.json","contentType":"file"},{"name":"3.01.json","path":"xiangse/3.01.json","contentType":"file"},{"name":"README.md","path":"xiangse/README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"xiangse/aiyueshuxiang.ibs","contentType":"file"},{"name":"reader书源-20220411_183419.json","path":"xiangse/reader书源-20220411_183419.json","contentType":"file"},{"name":"sourceModelList.xbs","path":"xiangse/sourceModelList.xbs","contentType":"file"},{"name":"xiangse.md","path":"xiangse/xiangse.md","contentType":"file"},{"name":"汇总源.xbs","path":"xiangse/汇总源.xbs","contentType":"file"},{"name":"🌐想看资源网📺.xbs","path":"xiangse/🌐想看资源网📺.xbs","contentType":"file"}],"totalCount":13},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"icons","path":"icons","contentType":"directory"},{"name":"ipa","path":"ipa","contentType":"directory"},{"name":"json","path":"json","contentType":"directory"},{"name":"py","path":"py","contentType":"directory"},{"name":"shuyuan_data","path":"shuyuan_data","contentType":"directory"},{"name":"shuyuans_data","path":"shuyuans_data","contentType":"directory"},{"name":"xiangse","path":"xiangse","contentType":"directory"},{"name":"xsreader","path":"xsreader","contentType":"directory"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"aiyueshuxiang.ibs","path":"aiyueshuxiang.ibs","contentType":"file"},{"name":"book.json","path":"book.json","contentType":"file"},{"name":"error.json","path":"error.json","contentType":"file"},{"name":"good.json","path":"good.json","contentType":"file"},{"name":"ipa.json","path":"ipa.json","contentType":"file"},{"name":"iptv.txt","path":"iptv.txt","contentType":"file"},{"name":"jinghua.json","path":"jinghua.json","contentType":"file"},{"name":"shuyuan_data.json","path":"shuyuan_data.json","contentType":"file"},{"name":"shuyuans_data.json","path":"shuyuans_data.json","contentType":"file"},{"name":"tts.json","path":"tts.json","contentType":"file"}],"totalCount":21}},"fileTreeProcessingTime":5.48306,"foldersToFetch":[],"repo":{"id":768461960,"defaultBranch":"shuyuan","name":"shuyuan","ownerLogin":"xinkeji","currentUserCanPush":false,"isFork":true,"isEmpty":false,"createdAt":"2024-03-07T06:00:05.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/33138729?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"shuyuan","listCacheKey":"v0:1710420372.0","canEdit":false,"refType":"branch","currentOid":"933a2f2323e69065f91abc176ee12b058cf74ce2"},"path":"xiangse/xiangse/乐文看书(海棠).xbs","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/xinkeji/shuyuan/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"乐文看书(海棠).xbs","displayUrl":"https://github.com/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs?raw=true","headerInfo":{"blobSize":"4.15 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"62f3311","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fxinkeji%2Fshuyuan%2Fblob%2Fshuyuan%2Fxiangse%2Fxiangse%2F%25E4%25B9%2590%25E6%2596%2587%25E7%259C%258B%25E4%25B9%25A6%28%25E6%25B5%25B7%25E6%25A3%25A0%29.xbs","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/xinkeji/shuyuan/blob/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/xinkeji/shuyuan/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/xinkeji/shuyuan/raw/shuyuan/xiangse/xiangse/%E4%B9%90%E6%96%87%E7%9C%8B%E4%B9%A6(%E6%B5%B7%E6%A3%A0).xbs","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/xinkeji/shuyuan/branches":{"post":"dYQoW3eU_rd80xFIHuXVIE1JVG_NgNL_Jqq0VOvT61EtZojXRkXxMakv-Y7WG8xT0V91FNgB0c357B1xhUISew"},"/repos/preferences":{"post":"R5uuN6ggoFFv44OcEMx7AMnbkaPDWjMXhdrJp8EwrPkkiFi0nB_knK3rO06_ax7b-ZXehUw-ybfUHo_WUKt23Q"}}},"title":"shuyuan/xiangse/xiangse/乐文看书(海棠).xbs at shuyuan · xinkeji/shuyuan","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-1583894afd38.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-3a63a487027b.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
