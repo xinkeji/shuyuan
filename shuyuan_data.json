@@ -654,48 +654,6 @@
     "bookSourceGroup": "自写书源"
   },
   {
-    "bookSourceComment": "20240617By_zhbyjm7783",
-    "bookSourceGroup": "自写0529",
-    "bookSourceName": "秀书网",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.xiumb12.com",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "lastUpdateTime": 1718620131234,
-    "respondTime": 180000,
-    "ruleBookInfo": {
-      "author": "[property=\"og:novel:author\"]@content",
-      "coverUrl": "[property=\"og:image\"]@content",
-      "intro": "[property=\"og:description\"]@content",
-      "kind": "{{@@[property=\"og:novel:category\"]@content}}\n{{@@[property=\"og:novel:update_time\"]@content}}\n{{@@.score_avg@em@text}}分",
-      "lastChapter": "[property=\"og:novel:latest_chapter_name\"]@content",
-      "name": "[property=\"og:novel:book_name\"]@content"
-    },
-    "ruleContent": {
-      "content": "id.content@textNodes##秀书网为你提供最快的.*免费阅读。https://www.xiumb9.com"
-    },
-    "ruleExplore": [],
-    "ruleReview": [],
-    "ruleSearch": {
-      "author": ".s4@a@text",
-      "bookList": ".novelslist2@ul@li!0",
-      "bookUrl": ".s2@a@href",
-      "checkKeyWord": "",
-      "kind": ".s6@text",
-      "lastChapter": ".s3@a@text",
-      "name": ".s2@a@text"
-    },
-    "ruleToc": {
-      "chapterList": "id.list@dd@a",
-      "chapterName": "text",
-      "chapterUrl": "href"
-    },
-    "searchUrl": "http://www.xiumb12.com/search.php?keyword={{key}}",
-    "weight": 0
-  },
-  {
     "bookSourceComment": "笔趣阁：\nhttps://m.bqg18.cc\nhttps://m.bq99.cc\nhttps://m.bqg113.com\nhttps://m.bqg119.com\nhttps://m.bqg121.com\nhttps://m.bq122.cc\nhttps://m.bqg220.com\nhttps://m.bqg222.com\nhttps://m.bqg223.cc\nhttps://m.bq227.cc\nhttps://m.bqg335.com\nhttps://m.bqgll.com\nhttps://m.bqgtu.com\nhttps://m.mfbqg.com\nhttps://m.bqlu.cc\nhttps://m.quge.cc\nhttps://m.bqgui.cc\nhttps://m.bigee.cc\n\n番茄123： https://m.fqxs123.com\n  E小说：   https://m.ecc6.com\n书汇小说：https://m.shuhui8.com\n海阅小说：https://m.haiyue8.com\n米读123： https://m.mdxs123.com\n傲风文学：https://m.aofce.com\n 86文学：  https://m.860bo.com\n云读小说：https://m.yundu9.com\n云海小说：https://m.yunhai9.com\n米阅小说：https://m.miyuexiaoshuo.com\nOK小说：  https://m.ok120.net\n 搜书网：   https://m.soushuwang.cc\n全民小说：https://m.qmkan.cc\n无奈小说：https://m.wnxsw.cc\n王牌小说：https://m.wpxs.cc\n正品小说：https://m.zpxs8.cc\n 69书吧：  https://m.69sb.cc",
     "bookSourceGroup": "",
     "bookSourceName": "同站一大堆",
