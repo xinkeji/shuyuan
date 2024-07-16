@@ -1,11 +1,11 @@
-**自动更新时间** 2024-07-16 18:19:24 CST+0800
+**自动更新时间** 2024-07-16 18:29:56 CST+0800
 #### 🚩 最新阅读书源修复-每隔3天自动更新一次（安卓阅读3.0+读不舍手-源阅读+花火阅读通用）
 #### 🚩 获取后的书源会自动效验
 
 <!-- 更新位置开始 -->
 | 阅读源总数 | 有效书源数 | 无效书源数 | 重复书源数 |
 |------------|------------|------------|--------------|
-| <span style="color:green;">2845</span> | <span style="color:blue;">1771</span> | <span style="color:red;">1074</span> | <span style="color:orange;">386</span> |
+| <span style="color:green;">2845</span> | <span style="color:blue;">1812</span> | <span style="color:red;">1033</span> | <span style="color:orange;">386</span> |
 <!-- 更新位置结束 -->
 
 #### 🚩 效验书源链接
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/tts.json
 
 #### 🚩 香色闺阁-每隔3天自动更新一次
 
-**自动更新时间** 2024-07-16 18:19:24 CST+0800
+**自动更新时间** 2024-07-16 18:29:56 CST+0800
  
  ``` bash
 https://raw.githubusercontent.com/xinkeji/shuyuan/shuyuan/xsreader/new/resources.txt
